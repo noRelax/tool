@@ -1,0 +1,4 @@
+# 我是注释
+[job]
+TestJob.run = */1 * * * *
+TestJob.run2 = */1 * * * *
