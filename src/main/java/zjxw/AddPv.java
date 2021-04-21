@@ -1,5 +1,8 @@
-package zjxw;
+package main.java.zjxw;
 
+import cn.hutool.core.lang.Console;
+import cn.hutool.core.thread.ConcurrencyTester;
+import cn.hutool.core.thread.ThreadUtil;
 import org.springframework.http.HttpEntity;
 import org.springframework.http.HttpHeaders;
 import org.springframework.util.LinkedMultiValueMap;
@@ -12,14 +15,13 @@ import java.util.Map;
  * 增加稿件阅读数
  *
  * @author ZhangShuGang
- *
  */
 public class AddPv {
-	private static RestTemplate restTemplate = new RestTemplate();
+    private static final RestTemplate restTemplate = new RestTemplate();
 
-	public static void main(String[] args) {
-		String url = "https://zj.zjol.com.cn/video.html?id=1628995";
-		int times = 10;
+    public static void main(String[] args) {
+        String url = "https://zj.zjol.com.cn/video.html?id=1628995";
+        int times = 10;
 
 //		for (int i = 0; i < times; i++) {
 //			String ret = restTemplate.getForObject(url, String.class);
@@ -31,8 +33,8 @@ public class AddPv {
 
         HttpHeaders httpHeaders = new HttpHeaders();
         HttpEntity<Map<String, Object>> mapHttpEntity = new HttpEntity(paramsMap, httpHeaders);
-		int threadNum = 10;
-		for (int j = 0; j < 10; j++) {
+        int threadNum = 10;
+		/*for (int j = 0; j < 10; j++) {
 			new Thread(() -> {
 				for (int i = 0; i < times / threadNum; i++) {
 					String ret = restTemplate.postForObject(url,mapHttpEntity, String.class);
@@ -40,7 +42,14 @@ public class AddPv {
 				}
 
 			}).start();
-		}
-	}
+		}*/
+        ConcurrencyTester concurrencyTester = ThreadUtil.concurrencyTest(10, () -> {
+            for (int i = 0; i < times / threadNum; i++) {
+                String ret = restTemplate.postForObject(url, mapHttpEntity, String.class);
+                System.out.println(ret + ">>>>>>>" + Thread.currentThread().getName() + "---" + i);
+            }
+        });
+        Console.log("耗时：{}ms", concurrencyTester.getInterval());
+    }
 
 }
