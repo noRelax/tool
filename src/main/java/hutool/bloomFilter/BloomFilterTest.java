@@ -2,7 +2,6 @@ package main.java.hutool.bloomFilter;
 
 import cn.hutool.bloomfilter.BitMapBloomFilter;
 import cn.hutool.bloomfilter.BloomFilterUtil;
-import cn.hutool.core.math.MathUtil;
 import org.junit.Test;
 
 /**

@@ -1,11 +1,14 @@
 package main.java.hutool.finder;
 
 import cn.hutool.core.collection.CollUtil;
+import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.lang.Console;
 import cn.hutool.core.util.ReUtil;
+import cn.hutool.core.util.StrUtil;
 import cn.hutool.http.HttpUtil;
 import org.junit.Test;
 
+import java.nio.charset.Charset;
 import java.util.List;
 
 /**
@@ -28,6 +31,28 @@ public class FinderTest {
                 Console.log("{}", value);
             }
         });
+    }
 
+    @Test
+    public void testContent() {
+        String content = FileUtil.readString("/Users/wusong/zbcm-workspace/tool/src/main/java/hutool/doc.txt", Charset.defaultCharset());
+        content = HtmlUtils.removeHtmlTag(content);
+        String result = getContentForSearch(content, "红色根脉", 50);
+        Console.log("处理前的内容：{},\n处理后的内容：{},\n长度：{}", content, result, result.length());
+    }
+
+    public String getContentForSearch(String content, String keyword, Integer num) {
+        if (content.contains(keyword)) {
+            if (keyword.length() > num) {
+                return keyword.substring(0, num);
+            }
+            int index = content.indexOf(keyword);
+            String preSubString = StrUtil.subBefore(content, keyword, false);
+            int length = (num - keyword.length()) / 2;
+            String lastSubString = StrUtil.subWithLength(content, index, length + keyword.length());
+            preSubString = preSubString.substring(preSubString.length() > num - lastSubString.length() ? preSubString.length() - num + lastSubString.length() : 0);
+            return StrUtil.removeAllLineBreaks(preSubString + lastSubString);
+        }
+        return null;
     }
 }

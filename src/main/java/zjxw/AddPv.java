@@ -22,11 +22,6 @@ public class AddPv {
     public static void main(String[] args) {
         String url = "https://zj.zjol.com.cn/video.html?id=1628995";
         int times = 10;
-
-//		for (int i = 0; i < times; i++) {
-//			String ret = restTemplate.getForObject(url, String.class);
-//			System.out.println(i);
-//		}
         MultiValueMap<String, Object> paramsMap = new LinkedMultiValueMap<>();
         paramsMap.add("device_id", "kkdgp6l2_181_wwww");
         paramsMap.add("client_session_id", "111111111111111111111111");

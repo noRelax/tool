@@ -1,3 +1,759 @@
-https://hutool.cn/
-1213
-123w12
+
+<!DOCTYPE html>
+<html xmlns:tools="http://www.w3.org/1999/xhtml">
+<head>
+    <title>浙江日报评论员 | 新阶段 新期待</title>
+    
+    <base href="https://zj.zjol.com.cn/" />
+        <meta charset="utf-8" />
+        <meta name="Keywords" content="浙江新闻,新闻,浙江,今日头条,官员去哪儿,高层声音,浙江时局,身边新闻,原创专栏,浙报传媒,浙报集团,浙江新闻客户端,浙江身边新闻,杭州新闻,大浙网,浙江日报报业集团,新闻客户端,网易新闻,浙江在线" />
+        <meta name="Description" content="浙江新闻是浙江日报报业集团推出的第一款移动新闻客户端，目标成为浙江本地政经第一平台，定位于本土化、可视化、工具化，为浙江政经人士提供热点新闻、政策解读、工作信息查询等服务。" />
+        <meta http-equiv="X-UA-Compatible" content="IE=9,chrome=1">
+        <meta name="applicable-device"content="pc">
+        <meta name="applicable-device"content="mobile">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimun-scale=1.0, maximun-calse=1.0, user-scalable=no" />
+        <link type="image/x-icon" rel="shortcut icon" href="https://stc-new.8531.cn/statics/web/images/favicon.ico?v=1618282426593">
+        <link type="text/css" rel="stylesheet" href="https://stc-new.8531.cn/statics/web/css/global.css?v=1618282426593" />
+        <link type="text/css" rel="stylesheet" href="https://stc-new.8531.cn/statics/web/css/idangerous.swiper.css?v=1618282426593" />
+        <!--[if !IE]> -->
+        <script src="https://stc-new.8531.cn/statics/web/js/lib/jquery-2.1.1.js?v=1618282426593"></script>
+        <!-- <![endif]-->
+        <!--[if IE]>
+        <script src="https://stc-new.8531.cn/statics/web/js/lib/jquery-1.11.3.min.js?v=1618282426593"></script>
+        <![endif]-->
+        <script type="text/javascript" src="https://stc-new.8531.cn/statics/web/js/lib/idangerous.swiper.min.js?v=1618282426593"></script>
+        <script type="text/javascript" src="https://stc-new.8531.cn/statics/web/js/global.min.js?v=1618282426593"></script>
+        <script type="text/javascript" src="https://stc-new.8531.cn/statics/web/js/dom_ready.min.js?v=1618282426593"></script>
+        <script type="text/javascript" src="https://stc-new.8531.cn/statics/web/js/common.min.js?v=1618282426593"></script>
+    
+    <script>  (function (para) {
+    var w = window, n = para.name;
+    w['GetuiData'] = n;
+    w[n] = w[n] || function (a) {
+        return function () {
+            (w[n]._q = w[n]._q || []).push([a, arguments]);
+        }
+    };
+    var ifs = ['init', 'track', 'autoTrack'];
+    for (var i = 0; i < ifs.length; i++) {
+        w[n][ifs[i]] = w[n].call(null, ifs[i]);
+    }
+    var s = document.createElement('script');
+    s.type = 'text/javascript';
+    s.async = true;
+    s.src = para.sdk_url;
+    var x = document.getElementsByTagName('script')[0];
+    w[n].customPara = para;
+    x.parentNode.insertBefore(s, x);
+})({
+    sdk_url: 'https://cdn-getuigw.getui.com/iopsdk/getuidata.min.js',
+    name: 'GetuiDataSDK',
+    appId: '181',
+    server_url: 'https://bggt.tmuyun.com',
+    show_log: true
+});
+GetuiDataSDK.autoTrack();
+</script>
+
+    <script>
+        GetuiDataSDK.track('newsInfoPv', {
+            NewsArticleID: '22453749',
+            NewsArticleTitle: '浙江日报评论员 | 新阶段 新期待',
+            NewsEditionName: '头条',
+            NewsEditionNumber: '584e6ac7e200b2098f871d3a',
+            NewsArticleSource: '浙江新闻客户端',
+            NewsArticleType: '2',
+            NewsArticleAuthor: '本报评论员',
+            NewsArticlePubtime: '1619566034000'
+        })
+    </script>
+
+<link rel="stylesheet" href="https://g.alicdn.com/de/prismplayer/2.8.8/skins/default/aliplayer-min.css" />
+<script type="text/javascript" charset="utf-8" src="https://g.alicdn.com/de/prismplayer/2.8.8/aliplayer-min.js"></script>
+<script type="text/javascript" charset="utf-8" src="https://stc-new.8531.cn/statics/web/js/lib/aliplayer/aliplayercomponents-1.0.5.min.js?v=1618282426593"></script>
+<script type="text/javascript" src="https://stc-new.8531.cn/statics/web/js/news.min.js?v=1618282426593"></script>
+<script type="text/javascript" src="https://stc-new.8531.cn/statics/web/js/utovr/UtoVRPlayerGuide.js?v=1618282426593"></script>
+</head>
+<body>
+<img class="preload-img hide" src="https://stc-new.8531.cn/statics/web/images/260x173.jpg?v=1618282426593" />
+
+    
+    <div class="topbg"></div>
+    
+    <div class="header">
+        <div class="hearder_top">
+            <div class="top_right out_case">
+                <p>
+                    <a href="search.html" target="_blank" class="search_btn"></a>
+                    
+                    <span>杭州</span><span>多云</span><img class="weather_icon" src="https://stc-new.8531.cn/statics/web/images/weather/101.png?v=1618282426593" /><span>25℃-16℃</span>
+                    
+                        <a class="show_code">下载APP</a>
+                    <a class="tgao" href="http://mcn.8531.cn" target="_blank">我要投稿</a>
+                </p>
+                <div class="phone_code"><img src="https://stc-new.8531.cn/statics/web/images/zjxw_code_top.png?v=1618282426593" /></div>
+            </div>
+        </div>
+        <div class="nav">
+            <div class="nav_content">
+                <a href=""><img class="zhe_logo" src="https://stc-new.8531.cn/statics/web/images/zhe_logo.png?v=1618282426593" /></a>
+                <div class="nav_box">
+                    <ul>
+                        
+                            
+                                
+                                <li>
+                                    <a href="?id=52e5f902cf81d754a434fb50">头条</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                            
+                            
+                        
+                            
+                                
+                                <li>
+                                    <a href="?id=5faa093ab4a13d297e9d000e">要闻</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                            
+                            
+                        
+                            
+                                <li>
+                                    <a href="ds">本地</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                                
+                            
+                            
+                        
+                            
+                                <li class="qhh">
+                                    <a href="qihanghao/list">起航号</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                                
+                            
+                            
+                        
+                            
+                                
+                                
+                                <li class="has_son"><a href="live/list">视听</a><span class="line_right"></span>
+                                    
+                                    <div class="son_box">
+                                        <div class="son_list">
+                                            <ul>
+                                                
+                                                <li>
+                                                    <a href="live/list" >直播</a>
+                                                    <span class="line_right"></span>
+                                                </li>
+                                                    
+                                                
+                                                <li>
+                                                    <a href="video/list" >视频</a>
+                                                    <span class="line_right"></span>
+                                                </li>
+                                                    
+                                                
+                                                <li>
+                                                    <a href="audio/list" >音频</a>
+                                                    <span class="line_right"></span>
+                                                </li>
+                                                    
+                                                
+                                            </ul>
+                                            <span class="triangle"></span>
+                                        </div>
+                                    </div>
+                                </li>
+                            
+                            
+                        
+                            
+                                <li>
+                                    <a href="https://mepaper.zjol.com.cn/szb/zjrb_hd.html">读报</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                                
+                            
+                            
+                        
+                            
+                                <li>
+                                    <a href="video/list">视频</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                                
+                            
+                            
+                        
+                            
+                                
+                                <li>
+                                    <a href="?id=5d4ba8cd159bb84750661d50">浙江</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                            
+                            
+                        
+                            
+                                
+                                <li>
+                                    <a href="?id=5d4ba90a159bb84750661d51">天下</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                            
+                            
+                        
+                            
+                                
+                                <li>
+                                    <a href="?id=5e2e4410b4a13d092b0dc969">战疫</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                            
+                            
+                        
+                            
+                                <li class="qhh">
+                                    <a href="dyh/list">订阅号</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                                
+                            
+                            
+                        
+                            
+                                
+                                <li class="last_nav">
+                                    <a href="?id=584e6ac7e200b2098f871d3a">观点</a>
+                                    <span class="line_right"></span>
+                                </li>
+                                
+                            
+                            
+                        
+                            
+                            
+                                <li class="more_nav"><a>更<br>多</a><span class="more_btn"></span>
+                                    
+                                    <div class="more_box">
+                                        <ul>
+                                            
+                                            <li>
+                                                <a href="tj/list">图片</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                            
+                                            
+                                            <li>
+                                                <a href="?id=5534eb21498e2ca4bf9f3c34">生活</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                            
+                                            <li>
+                                                <a href="?id=58eaedbae200b20e0092ef75">宜居</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                            
+                                            <li>
+                                                <a href="?id=57ff4d66e4aaf28c91d0bf8e">旅游</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                            
+                                            <li>
+                                                <a href="?id=5651e596498e4895c345ef65">法治</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                            
+                                            <li class="qhh">
+                                                <a href="?id=5e4ba6c03fda1f73e1407b93">浙里养</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                            
+                                            <li>
+                                                <a href="?id=5e4f7ae1b4a13d092b0dcbcf">浙商</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                            <li>
+                                                <a href="hd/list">活动</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                            
+                                            
+                                            <li class="qhh">
+                                                <a href="?id=5e7d70bd3fda1f73e1407ef8">美艺天</a>
+                                                <span class="line_right"></span>
+                                            </li>
+                                            
+                                        </ul>
+                                    </div>
+                                </li>
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+                            
+                            
+                        
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="bodyer">
+        <div class="out_case">
+            <div class="sitemap"><a href="">首页&gt;</a><a href="">头条&gt;</a><a>浙江日报评论员 | 新阶段 新期待</a></div>
+            <div class="w895">
+                <div class="news_box shadow">
+                    <div>
+                        <h1 class="news_title">浙江日报评论员 | 新阶段 新期待 </h1>
+                        <p class="news_info">
+                            
+                            2021-04-28 07:27
+                                <span>|</span><a href="?id=584e6ac7e200b2098f871d3a">观点</a>
+                                <span>|</span>浙江新闻客户端
+                                <span>|</span>本报评论员
+                                
+                        </p>
+                        <div class="news_content">
+                            
+                            
+                            
+                            <div style="text-align: left;">
+ <p style="text-align: left;"></p>
+</div>
+<div></div>
+<div id="ozoom" style="text-align: left;">
+ <founder-content>
+  <p><img class="app_image limitWidth" type="app_image" src="https://stc-new.8531.cn/assets/20210428/1619566033639_60889dd1159bb83d2ca45d66.jpeg" style="display: block; clear: both; max-width: 640px;" OLDSRC="W020210428264305534569.jpg"> </p>
+  <span style="margin-top: 1px; padding-top: 1px; font-size: 14px; height: auto; color: rgb(138, 147, 158); padding-bottom: 6px; box-sizing: initial; line-height: 1.5em; display: block;" type="imagenote">图源：视觉中国</span>
+  <p style="text-align: left;">学史悟初心，蝶变映辉煌。我省一张张“金名片”在中共中央宣传部建党百年浙江专题新闻发布会上展示，是对浙江接续奋斗、再创佳绩的新期待。深受鼓舞之余，在新发展阶段，浙江势必踔厉风发、奋袂而起，不辱使命。</p>
+  <p style="text-align: left;">“红色根脉”是党在浙江百年奋斗最鲜明的底色。作为中国革命红船的起航地，传承人和守卫者这一角色是历史赋予我们的重任。要学史鉴今，从党史中汲取智慧，淬炼红色信仰，砥砺奋进意志；要加快构建党建统领的整体智治体系，实现从“事”向“制”“治”“智”的转变，以高质量党建引领推动高质量发展，让红色资源优势为浙江现代化建设赋能。</p>
+  <p style="text-align: left;">习近平总书记在浙江部署的“八八战略”是我省发展必须坚持的总纲。新的征程上，我们仍需强化对“八八战略”的认识，忠实沿着“八八战略”指引的路子走下去，推动实践和理论的迭代深化和螺旋上升。要紧扣2023年“八八战略”实施20周年，研究构建深化“八八战略”的目标体系、工作体系、政策体系、评价体系，不断健全以年度评估为标志的抓落实机制，不断细化、量化工作平台、工作抓手。&nbsp;</p>
+  <p style="text-align: left;">习近平总书记赋予我省“重要窗口”的新目标新定位，让浙江挑起展现“中国之治”的重任。历经百年奋斗站在新的起点上，要在新时代全面展示中国特色社会主义制度优越性，浙江必须在争创社会主义现代化先行省和高质量发展建设共同富裕示范区的新征程上，拿出攻坚克难、超越自己的状态，唯实惟先、善作善成，不断开创发展新境界。要突出“三个争先”，深入实施数字化改革，加快构建“152”工作体系，搭建好“四梁八柱”；认真践行“绿水青山就是金山银山”理念，为“碳达峰”“碳中和”贡献浙江作为；实施人才强省、创新强省首位战略，建设三大科创高地，为之江大地的高质量发展再提速。</p>
+  <p style="text-align: left;">凡是过去，皆为序章。回顾中国共产党在浙江走过的百年足迹和成就，足以让浙江豪情顿生，也足以唤起浙江在新的历史航程中奋勇争先的磅礴伟力！</p>
+ </founder-content>
+</div>
+<p><br style="text-align: left;"></p><p id="issueTime" style="display:none;">1619566034000</p>
+                            
+                        </div>
+                    </div>
+                    
+                    <div class="comment_box" newsid="1657452">
+                        <p class="comment_title"><span class="left_line"></span>最新评论(<z>8</z>)</p>
+                        <div class="comment_lists">
+                            <ul>
+                            </ul>
+                            
+    
+    <div class="none_data hide">
+        <img src="https://stc-new.8531.cn/statics/web/images/none_icon2.png?v=1618282426593" />
+        <p>暂无内容！</p>
+    </div>
+
+                        </div>
+                        <p class="more_comment"><a>点击加载更多…</a></p>
+                    </div>
+                </div>
+            </div>
+            <div class="w285">
+                
+                <div class="related_news mb20 shadow">
+                    <div class="tj_title"><span class="left_line"></span><span class="tj_text">相关新闻</span></div>
+                    <div class="rel_news_lists">
+                        <ul>
+                            <li>
+                                <a href="news/1657365.html" target="_blank">
+                                    <div class="imgs">
+                                        <img src="https://stc-new.8531.cn/assets/20210428/1619566065630_60889df1159bb83d2ca45d70.jpeg"/>
+                                    </div>
+                                    <p class="rel_news_title">弄潮·视评 ｜ 官方调查“熟鸡蛋孵小鸡”，枪口能否瞄得更准些？</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="news/1657436.html" target="_blank">
+                                    <div class="imgs">
+                                        <img src="https://stc-new.8531.cn/assets/20210428/1619565465242_60889b99159bb83d2ca45ce1.jpeg"/>
+                                    </div>
+                                    <p class="rel_news_title">画中话 | 遛狗须拴绳</p>
+                                </a>
+                            </li>
+                            <li>
+                                <a href="news/1657437.html" target="_blank">
+                                    <div class="imgs">
+                                        <img src="https://stc-new.8531.cn/assets/20210428/1619565485593_60889bad159bb83d2ca45ce7.jpeg"/>
+                                    </div>
+                                    <p class="rel_news_title">之江观点 | 呵护好每一份“很不容易”</p>
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                
+                
+                
+    <div class="tj_hotNews shadow">
+        <div class="tj_title"><span class="left_line"></span><span class="tj_text">热门新闻</span></div>
+        <div class="tj_news_lists">
+            <div class="hot_nav"><a class="active" index="0">一天<i class="triangle-up"></i></a><a index="1">三天<i class="triangle-up"></i></a><a index="2">一周<i class="triangle-up"></i></a></div>
+            <ul>
+                
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656836" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619492585450_60877ee9159bb83d2ca44369.jpeg" /></div>
+                        <p class="list_title">浙江日报评论员 | 重大节点 重要展示</p>
+                        <span class="triangle-topleft one_color"></span>
+                        <span class="ranking_numb">1</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656932" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619486605618_6087678d159bb83d2ca43e1c.jpeg" /></div>
+                        <p class="list_title">快评慢弹 | 避免掉进直线型人生的陷阱</p>
+                        <span class="triangle-topleft two_color"></span>
+                        <span class="ranking_numb">2</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656838" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619478905605_60874979159bb83d2ca43840.jpeg" /></div>
+                        <p class="list_title">之江观察 | 读懂数据背后的信心和底气</p>
+                        <span class="triangle-topleft three_color"></span>
+                        <span class="ranking_numb">3</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656967" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619489640510_60877368159bb83d2ca44093.jpeg" /></div>
+                        <p class="list_title">潮评 ｜ 数字大潮奔涌至 踏浪前行显英雄</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">4</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656931" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619486605268_6087678d159bb83d2ca43e19.jpeg" /></div>
+                        <p class="list_title">画中话 | 看病底气，更足！</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">5</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1657364" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619532045563_6088190d159bb83d2ca4599f.jpeg" /></div>
+                        <p class="list_title">潮评 ｜ 作业管理是高质量教育的“应声筒”</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">6</span>
+                    </a>
+                </li>
+            </ul>
+            <ul class="hide">
+                
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656636" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210426/1619433380273_608697a4159bb83d2ca42f1c.jpeg" /></div>
+                        <p class="list_title">党史学习·诗词吟诵 | “红船航百载，高举一灯明”，省诗词与楹联学会带您领略诗词中的百年党旗红</p>
+                        <span class="triangle-topleft one_color"></span>
+                        <span class="ranking_numb">1</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656133" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210426/1619393395527_6085fb73159bb83d2ca4164f.jpeg" /></div>
+                        <p class="list_title">之江会客厅 | 积极探索碳达峰碳中和实现路径</p>
+                        <span class="triangle-topleft two_color"></span>
+                        <span class="ranking_numb">2</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656836" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619492585450_60877ee9159bb83d2ca44369.jpeg" /></div>
+                        <p class="list_title">浙江日报评论员 | 重大节点 重要展示</p>
+                        <span class="triangle-topleft three_color"></span>
+                        <span class="ranking_numb">3</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656123" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210426/1619392495569_6085f7ef159bb83d2ca41602.jpeg" /></div>
+                        <p class="list_title">人类命运共同体：中国共产党外交思想在新时代的承续</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">4</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1655477" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210425/1619305825365_6084a561159bb83d2ca3f56f.jpeg" /></div>
+                        <p class="list_title">声纳 | 治癌乱相之争，别忽视了治疗的“经济原则”</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">5</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1655910" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210425/1619345356375_60853fcc159bb83d2ca40c77.jpeg" /></div>
+                        <p class="list_title">建党百年“物印初心”征集丨72年前的入党志愿书：我参加共产党的目的，是决心为人民服务，不讲条件，不打折扣</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">6</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1655475" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210425/1619305765397_6084a525159bb83d2ca3f55d.jpeg" /></div>
+                        <p class="list_title">声纳 | 人民网评：谁直播带货？谁运营管理？终于明确了</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">7</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656130" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210426/1619393295269_6085fb0f159bb83d2ca41633.jpeg" /></div>
+                        <p class="list_title">新书荐评 | 《论中国共产党历史》</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">8</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656124" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210426/1619392525544_6085f80d159bb83d2ca41608.jpeg" /></div>
+                        <p class="list_title">担负“五大历史使命”　开启现代化新征程 | 以宽广的视野与胸怀担负五大历史使命</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">9</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656932" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619486605618_6087678d159bb83d2ca43e1c.jpeg" /></div>
+                        <p class="list_title">快评慢弹 | 避免掉进直线型人生的陷阱</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">10</span>
+                    </a>
+                </li>
+            </ul>
+            <ul class="hide">
+                
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1653690" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210423/1619179565464_6082b82d159bb83d2ca3d986.jpeg" /></div>
+                        <p class="list_title">潮评 | 新时代接续奋斗“跟我上”</p>
+                        <span class="triangle-topleft one_color"></span>
+                        <span class="ranking_numb">1</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656636" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210426/1619433380273_608697a4159bb83d2ca42f1c.jpeg" /></div>
+                        <p class="list_title">党史学习·诗词吟诵 | “红船航百载，高举一灯明”，省诗词与楹联学会带您领略诗词中的百年党旗红</p>
+                        <span class="triangle-topleft two_color"></span>
+                        <span class="ranking_numb">2</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1654625" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210423/1619159800245_60826af8159bb83d2ca3c904.jpeg" /></div>
+                        <p class="list_title">建党百年“物印初心”征集令： 我们身边的党建文物</p>
+                        <span class="triangle-topleft three_color"></span>
+                        <span class="ranking_numb">3</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656133" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210426/1619393395527_6085fb73159bb83d2ca4164f.jpeg" /></div>
+                        <p class="list_title">之江会客厅 | 积极探索碳达峰碳中和实现路径</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">4</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1656836" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210427/1619492585450_60877ee9159bb83d2ca44369.jpeg" /></div>
+                        <p class="list_title">浙江日报评论员 | 重大节点 重要展示</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">5</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1654404" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210423/1619136330558_60820f4a159bb83d2ca3bc33.jpeg" /></div>
+                        <p class="list_title">之江观察 | 下好“微改造”的“绣花”功夫</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">6</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1654406" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210423/1619179565621_6082b82d159bb83d2ca3d987.jpeg" /></div>
+                        <p class="list_title">潮评 | 阅读，“悦”自刻苦来</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">7</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1654405" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210423/1619179568955_6082b830159bb83d2ca3d992.jpeg" /></div>
+                        <p class="list_title">潮评 | 医美热，先搞清为啥求美</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">8</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1655089" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210426/1619413310556_6086493e159bb83d2ca421a2.jpeg" /></div>
+                        <p class="list_title">潮评 | “中国贡献”为打造全球环境治理新格局添动力</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">9</span>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://zj.zjol.com.cn/news.html?id=1654521" target="_blank">
+                        <div class="lists_img"><img src="https://stc-new.8531.cn/assets/20210423/1619144375853_60822eb7159bb83d2ca3c15b.png" /></div>
+                        <p class="list_title">一见评天下 | 中国不是奶牛，任人挤奶又宰割</p>
+                        <span class="triangle-topleft _color"></span>
+                        <span class="ranking_numb">10</span>
+                    </a>
+                </li>
+            </ul>
+        </div>
+
+    </div>
+
+                
+            </div>
+        </div>
+    </div>
+    
+    <div class="floatbg hide">
+        <div class="swiper_box_img">
+            <div class="swiper-container img_swiper">
+                <div class="swiper-wrapper">
+                </div>
+            </div>
+            <div class="next"></div>
+            <div class="prev"></div>
+            <p class="num_p"><span class="nowIndex">0</span>/<span class="all">0</span></p>
+        </div>
+
+
+
+    </div>
+    <script type="text/template" id="comment_clone">
+        <li>
+            <div class="comment_img"><img /></div>
+            <div class="text_box">
+                <p class="comment_name"></p>
+                <p class="comment_addr_time"><span class="time"></span></p>
+                <p class="comment_text"></p>
+                <div class="other_comment">
+                    <p class="comment_name"></p>
+                    <p class="comment_text"></p>
+                </div>
+            </div>
+            <div class="zan_num"><i class="like_icon"></i><z></z></div>
+        </li>
+    </script>
+    <script type="text/template" id="live_clone">
+        <li>
+            <p class="time"><i></i><z></z></p>
+            <div class="live_content">
+                <p class="live_text"></p>
+                <div class="live_img"></div>
+            </div>
+        </li>
+    </script>
+    <script type="text/javascript" src="https://cdn-cp.8531.cn/tool/front/js/zjrb-elements.js" charset="UTF-8"></script>
+    <script type="text/javascript">
+        $.zb.news.init();
+    </script>
+
+
+<script type="text/javascript">
+    $.zb.dom_ready.init();
+</script>
+
+    <div class="footer">
+        <div class="out_case">
+            <div class="logo_code"><img src="https://stc-new.8531.cn/statics/web/images/zjxw_code.png?v=1618282426593" /></div>
+            <div class="logo"><img src="https://stc-new.8531.cn/statics/web/images/logo.png?v=1618282426593" /></div>
+            <p class="copyright">浙江日报报业集团  Copyright © 浙江新闻&nbsp;&nbsp;<a href="https://beian.miit.gov.cn" target="_blank">浙B2-20080242-1</a>&nbsp;&nbsp;<img border="0" style="position:relative;top:5px;" src="https://stc-new.8531.cn/statics/web/images/police.png?v=1618282426593" ><a href="//www.beian.gov.cn/portal/registerSystemInfo?recordcode=33010302000628" target="_blank" rel="nofollow">浙公网安备33010302000628号</a></p>
+        </div>
+    </div>
+
+<script id="_trs_ta_js" src="//ta.8531.cn/c/js/ta.js?mpid=181" async="async" defer="defer"></script>
+<script style="display:none;">
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?2a5004732122e2825309d75bc37bf43f";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
+
+<script>
+    $(function(){
+        $("#search_keyword").keydown(function(e){
+            if(e.keyCode==13){
+                sa.track('WebSearch', {
+                    searchWord: $(this).val()
+                });
+            }
+        });
+        $(".search_btn_box").click(function(){
+            sa.track('WebSearch', {
+                searchWord: $("#search_keyword").val()
+            });
+        });
+    });
+
+    if(typeof keyword !="undefined"){
+        sa.track('WebSearch', {
+            searchWord: keyword
+        });
+    }
+
+</script>
+</body>
+</html>
