@@ -5,6 +5,7 @@ import cn.hutool.core.io.FileUtil;
 import cn.hutool.core.lang.Console;
 import cn.hutool.core.util.ReUtil;
 import cn.hutool.core.util.StrUtil;
+import cn.hutool.http.HtmlUtil;
 import cn.hutool.http.HttpUtil;
 import org.junit.Test;
 
@@ -36,7 +37,7 @@ public class FinderTest {
     @Test
     public void testContent() {
         String content = FileUtil.readString("/Users/wusong/zbcm-workspace/tool/src/main/java/hutool/doc.txt", Charset.defaultCharset());
-        content = HtmlUtils.removeHtmlTag(content);
+        content = HtmlUtil.cleanHtmlTag(content);
         String result = getContentForSearch(content, "红色根脉", 50);
         Console.log("处理前的内容：{},\n处理后的内容：{},\n长度：{}", content, result, result.length());
     }
