@@ -15,7 +15,7 @@ public class Cat implements Animal {
     }
 
     public static void main(String[] args) {
-        Cat cat = ProxyUtil.proxy(new Cat(), TimeIntervalAspect.class);
+        Cat cat = ProxyUtil.proxy(new Cat(), LogAspect.class);
         cat.eat();
     }
 }

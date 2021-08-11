@@ -1,3 +1,4 @@
+/*
 package zjrd;
 
 import java.io.File;
@@ -6,11 +7,13 @@ import java.time.LocalDateTime;
 import com.aliyun.oss.OSS;
 import com.aliyun.oss.OSSClientBuilder;
 
+*/
 /**
  * 上传文件到人大oss
  *
  * @author ZhangShuGang
- */
+ *//*
+
 public class UploadFile {
 
     private static OSS ossClient;
@@ -46,3 +49,4 @@ public class UploadFile {
         return "http://oss-cn-hangzhou-zwynet-d01-a.internet.cloud.zj.gov.cn" + "/" + ossBucket + "/" + key;
     }
 }
+*/
